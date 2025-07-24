@@ -50,14 +50,15 @@ To run **rock-paper-scissors-game** locally, follow these steps:
 
 Linux and macOS:
 
-````bash
-sudo git clone #
+```
+```bash
+sudo git clone https://github.com/Abhay19sharma/Rock-Paper-Scissors-game
 
 Windows:
 
 ```bash
-git clone #
-````
+git clone https://github.com/Abhay19sharma/Rock-Paper-Scissors-game
+```
 
 ### Contact
 
